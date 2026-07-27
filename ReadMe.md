@@ -31,6 +31,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarveshmondkar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sarveshmondkar&label=Profile%20Views&color=F85149&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
