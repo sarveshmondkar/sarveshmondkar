@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering Graduate (2026)<br>💻 Passionate about Full Stack Web Development<br>🌱 Currently learning System Design & DSA<br>🚀 Building scalable web applications using the MERN Stack<br>📫 Reach me at: your : sarveshmondkar3084@gmail.com
+🎓 Computer Engineering Graduate (2026)<br>💻 Passionate about Full Stack Web Development<br>🌱 Currently learning System Design & DSA<br>🚀 Building scalable web applications using the MERN Stack<br>📫 Reach me at your : sarveshmondkar3084@gmail.com
 
 
 ## 🌐 Socials:
