@@ -119,6 +119,17 @@ Full Stack Developer • MERN Stack Developer • Building Modern Web Applicatio
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sarveshmondkar/sarveshmondkar/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
 # 📈 GitHub Activity
 
 <p align="center">
