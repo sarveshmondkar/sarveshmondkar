@@ -149,12 +149,10 @@ Full Stack Developer • MERN Stack Developer • Building Modern Web Applicatio
 
 ---
 
-# 💭 Developer Quote
+# 💭 Random Dev Quote
 
 <p align="center">
-
-> *"Code is not just about solving problems—it's about creating experiences that people enjoy using."*
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
 ---
